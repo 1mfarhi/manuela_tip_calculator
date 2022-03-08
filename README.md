@@ -9,3 +9,4 @@ The program will prompt the user for the following inputs:
 
 This program allows the user to input any dollar & cents amount for. 
 Finally, the program will output the total bill including 10% tax (which is calculated automatically), and the amount each person needs to pay (including tax & tip), if decided to split the bill.
+
